@@ -71,8 +71,21 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 | Draft of complete document with all sections, references, and figures | Two weeks prior to defense |
 | Final document delivered to committee | One week prior to defense |
 
-## Formatting
+## Document Requirements
 
+### Length
+
+A reasonable goal for a thesis is enough material for a single computer science research article. A normal CS conference paper would be about 12-15 pages in a tight two-column LaTEX format, which corresponds to **20 to 30 pages** in a normal MS-Word format.
+
+That said, length is ultimately a function of the project. You'll write as much as you need to write to describe what you've done and what your results are. In practice, length by itself is almost never an issue with thesis documents.
+
+### Formatting
+
+Most students type their theses in Microsoft Word. Use normal margins and 12-point Times New Roman or a similar professional-looking font. Set the line spacing to 1.4.
+
+Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth.
+
+References should be cited using APA-style (Name, Date) pairs in parenthesis. Many CS papers use numbered references in brackets, like [1, 2], but this style is hard to use without an automatic citation manager such as BibTEX.
 
 ## Document Sections
 
