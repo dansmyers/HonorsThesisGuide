@@ -65,8 +65,11 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 | Deliverable   |  Date |
 |----------|------:|
 | Draft of literature review and reference list | October 15 |
-| col 2 is | $12 |
-| col 3 is |  $1 |
+| Draft of introduction and methods section | End of fall semester |
+| Draft of results section | March 31  |
+| Schedule defense | First week of April |
+| Draft of complete document | Two weeks prior to defense |
+| Final document delivered to committee | One week prior to defense |
 
 ## Formatting
 
