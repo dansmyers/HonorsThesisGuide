@@ -142,7 +142,7 @@ The most important rule for introductions: **actually tell the reader what your 
 
 I recommend the following structure for your introduction.
 
-Begin by stating a big, obvious problem of general interest. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis. Provide two brief references to the literature (with citataions) showing that other researchers have addressed aspects of this problem. Together, these items make up your first paragraph.
+Begin by stating a big, obvious problem of general interest. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis. Provide two brief references to the literature (with citations) showing that other researchers have addressed aspects of this problem. Together, these items make up your first paragraph.
 
 The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify a limitation that your thesis will now address. The next sentence explains why this gap is problem that demands to be filled. This is your second paragraph.
 
