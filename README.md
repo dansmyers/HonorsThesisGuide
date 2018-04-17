@@ -42,7 +42,7 @@ The journal is not a formal document. You don't have to turn it in, although I m
 
 ### A Daily Research Session
 
-(This section is influenced by Robert Boice's *Nihil Nimus*. This is the approach I use in my own research sessions.)
+*This section is influenced by Robert Boice's *Nihil Nimus*. This is the approach I use in my own research sessions.*
 
 As your scheduled research time begins, sit yourself in a place where you can be productive and focus. This is different for every person, but doing your research in the same time and place each day will help you get into a productive frame of mind.
 
@@ -60,7 +60,9 @@ When you reach the end of your time, or a natural stopping place, pause for a mo
 
 Finally, **write down one to four tasks**, in order of priority, for the next session. This is your to-do list. When you come back next time, you'll tackle these tasks, with the highest priority one coming first. If a task seems too large, just break it into subtasks, then prioritize those.
 
-## Rough Timeline
+## Basic Requirements
+
+### Rough Timeline
 
 | Deliverable   |  Date |
 |----------|------:|
@@ -71,7 +73,6 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 | Draft of complete document with all sections, references, and figures | Two weeks prior to defense |
 | Final document delivered to committee | One week prior to defense |
 
-## Document Requirements
 
 ### Length
 
@@ -83,11 +84,80 @@ That said, length is ultimately a function of the project. You'll write as much 
 
 Most students type their theses in Microsoft Word. Use normal margins and 12-point Times New Roman or a similar professional-looking font. Set the line spacing to 1.4.
 
+If you are going to grad school and want to learn LaTEX, we can talk about it.
+
 Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth.
 
 References should be cited using APA-style (Name, Date) pairs in parenthesis. Many CS papers use numbered references in brackets, like [1, 2], but this style is hard to use without an automatic citation manager such as BibTEX.
 
-## Document Sections
+Include a title page with the project title, your name, etc.
+
+## The Document
+
+### Common Structures
+
+A common plan for a research thesis has the following sections:
+
+- Introduction
+- Literature Review
+- Methods
+- Results
+- Discussion
+- Conclusion
+
+This structure is standard for papers that are broadly experimental, where the locus of the research is collecting and analyzing data from some source, with the goal of answering some questions. The Methods section summarizes the details of your experiment, such as data collection, processing, and analysis steps. The Results section presents quantitative and qualitative data that answer the experimental questions driving the paper. The Discussion section elaborates on the significance of the results, acknowledges limitations, and places them in broader context.
+
+Simon Peyton-Jones suggests the following structure, which is useful for papers that are more engineering-oriented:
+
+- Introduction
+- Literature Review
+- Problem Description
+- Solution Description
+- Details and Experimental Results
+- Conclusion
+
+In these kinds of papers, the Problem Description section usually incorporates some quantitative experiment simply to prove that the problem exists. The rest of the paper describes a solution and its implementation, then performs experiments to show that it really solves the original problem.
+
+Note that the section names can be changed to something more descriptive if it's appropriate.
+
+### Abstract
+
+Your document will also include an abstract, which provides a one-paragraph summary of the entire paper. Write this last.
+
+### Writing the Introduction
+
+*This section is influenced by Karen Kelsky's grant-writing template.*
+
+The Introduction section establishes the main idea for the entire paper. A reader should finish the introduction knowing
+
+- what problem or question your thesis addresses,
+
+- that this problem or question matters,
+
+- how you approach the problem or question, and
+
+- what else your thesis contains
+
+The most important rule for introductions: **actually tell the reader what your thesis is about**. This is not a Hitchcock movie! You don't get extra credit for keeping the reader in suspense or making them guess what's going to happen next.
+
+I recommend the following structure for your introduction.
+
+Begin by stating a big, obvious problem. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis.
+
+Demonstrate, through citations, that other researchers have addressed this problem.
+
+The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify a limitation that your thesis will now address.
+
+The next few paragraphs will summarize how your thesis addresses this limitation: what you propose to do, what data you've collected, what experiments you've performed, etc.
+
+Now, this has to be written in a beliveable way. You can'y claim that your thesis is going to solve global warming, but you might be able to identify one new fact in one previously underexplored area, and that's enough for one project.
+
+The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
+
+### Writing the Literature Review
+
+
+### Writing the Results
 
 
 ## Writing Tips
