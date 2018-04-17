@@ -60,10 +60,13 @@ When you reach the end of your time, or a natural stopping place, pause for a mo
 
 Finally, **write down one to four tasks**, in order of priority, for the next session. This is your to-do list. When you come back next time, you'll tackle these tasks, with the highest priority one coming first. If a task seems too large, just break it into subtasks, then prioritize those.
 
-
-
 ## Rough Timeline
 
+| Deliverable   |  Date |
+|----------|------:|
+| Draft of literature review and reference list | October 15 |
+| col 2 is | $12 |
+| col 3 is |  $1 |
 
 ## Formatting
 
