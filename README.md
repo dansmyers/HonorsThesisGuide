@@ -186,7 +186,7 @@ I recommend the following structure for your introduction.
   
     The paper doesn't begin by diving right in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependence on large financial institutions.
     
-    You may want to include one or two more sentences to provide a little more context on the problem and elaborate on its significance. Your overall goal is to get the reader's attention by connecting the topic of your study to a significant problem.
+    If necessary, include one or two more sentences to provide more context on the problem and elaborate on its significance. Your overall goal is to arouse the reader's interest by connecting the topic of your study to a significant problem.
 
 2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have recognized this problem and addressed aspects of it. This may include a relevant quote from one of your sources.
 
