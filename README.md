@@ -289,6 +289,35 @@ was motivated by questions that have remained relevant to file system design and
 
 ### Writing the Methods and Results
 
+Your Methods and Results are the **most imporant sections of your paper**. They are the truly original part of your work. You want your readers to **understand** these sections so they will appreciate the quality of your research.
+
+The contents of these sections depend on the details of your study, but the following guidelines will help you.
+
+1. **More details**.
+
+2. **Show your work**.
+
+3. **No unsupported assertions**. Everything you claim must be backed up by either supporting data from your study or a citation. ***Everything***. 
+
+4. **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Graphs should have legends. For tables, make sure your columns and rows have descriptive titles and explain which values in the table illustrate the point you want to make.
+
+5. **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+
+    - Use color sparingly, if at all.
+    
+    - More than two or three lines per graph is hard to interpret.
+    
+    - Huge tables full of numbers are also hard to interpret.
+    
+    - Use line plots for continuous data or discrete sets with many points. Use bar graphs or scatter plots for discrete data.
+    
+    - Graph axes should always start at 0. **Do not** set the minimum axis value based on the data.
+    
+5. **Anticipate objections and address them**.
+
+6. **Acknowledge limitations**. All studies have imperfections. Don't try to hide yours, or pretend they don't exist. Instead, acknoweldge any issues that exist with your data or limitations with your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
+
+7. **Structure for impact**.
 
 
 ## General Writing Tips
