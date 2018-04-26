@@ -203,18 +203,7 @@ third party.
     
 4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What analysis techniques or theoretical frameworks do you draw upon?
 
-    Here is the complete second paragraph of the (Nakamoto, 2008) paper introduction. It tells you, in four sentences, the Kicker that motivates the paper, an elaboration of why this problem shoud be addressed, and what the paper presents.
-    
-    > What is needed is an electronic payment system based on cryptographic proof instead of trust,
-allowing any two willing parties to transact directly with each other without the need for a trusted
-third party. Transactions that are computationally impractical to reverse would protect sellers
-from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In
-this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed
-timestamp server to generate computational proof of the chronological order of transactions. The
-system is secure as long as honest nodes collectively control more CPU power than any
-cooperating group of attacker nodes.
-
-5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
+5. The end of the Introduction is a **list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
 
     Be explicit about this! It's okay to say, "The key contribution of this paper is..." or, "This paper makes the following contributions..." Don't force your reader to figure out for themselves whether your thesis accomplished anything.
 
@@ -230,6 +219,16 @@ Taken together, this structure does several things:
 
 - Finally, it expicitly tells the reader what contributions you are making and why they are important.
 
+Here is the complete second paragraph of the (Nakamoto, 2008) paper introduction. It tells you, in four sentences, the main gap that the paper addresses, the need for addressing this gap, and the two main contributions of the paper. Key phrases are bolded by me.
+    
+> **What is needed is** an electronic payment system based on cryptographic proof instead of trust,
+allowing any two willing parties to transact directly with each other without the need for a trusted
+third party. Transactions that are computationally impractical to reverse **would protect** sellers
+from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. **In
+this paper, we propose a solution** to the double-spending problem using a peer-to-peer distributed
+timestamp server to generate computational proof of the chronological order of transactions. **The
+system is secure** as long as honest nodes collectively control more CPU power than any
+cooperating group of attacker nodes.
 
 ### Writing the Literature Review
 
