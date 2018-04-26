@@ -190,13 +190,23 @@ I recommend the following structure for your introduction.
 
 2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have recognized this problem and addressed aspects of it. This may include a relevant quote from one of your sources.
 
-3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify the gap in the existing research that your thesis addresses. **The Kicker sentence must be on the first page of your document**. 
+3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence identifies the gap in the existing research that your thesis addresses. **The Kicker sentence must be on the first page of your document**.
 
+    Here is a sentence that functions as a Kicker in Satoshi's paper:
+
+    > What is needed is an electronic payment system based on cryptographic proof instead of trust,
+allowing any two willing parties to transact directly with each other without the need for a trusted
+third party.
+
+    Think of the Kicker as the main topic sentence for your document. The drive to address this issue will ultimately motivate everything in the rest of the paper. 
+    
     The rest of the paragraph following the Kicker elaborates on why this gap is a problem that must be addressed, in the context of the major issue you identified at the beginning of the paper.
 
 4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What analysis techniques or theoretical frameworks do you draw upon?
 
-5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure. This section can be didactic. It's okay to tell the reader something as explicit as "This paper makes the following contributions..." or "The key result of this paper is..."
+5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
+
+    Be explicit about this! It's okay to say, "The key contribution of this paper is..." or, "This paper makes the following contributions..." Don't force your reader to figure out for themselves whether your thesis accomplished anything.
 
 Taken together, this structure does several things:
 
@@ -212,6 +222,39 @@ Taken together, this structure does several things:
 
 
 ### Writing the Literature Review
+
+The Literature Review has a few key purposes:
+
+- to equip you with background knowledge you need for your thesis,
+
+- to provide the body of references you'll use in your work, and
+
+- to demonstrate to your reviewers that you have done sufficient background research and have an understanding of your topic area.
+
+Three problems plague the thesis literature review process:
+
+1. Doing the absolute minimum and ending up with a literature review that's too sparse and cursory to show any understanding of the area.
+
+2. The opposite, taking forever with the lit review and refusing to move on the actual thesis. This is a favorite procrastination technique of insecure grad students.
+
+3. The most insidious one: doing a lengthy literature review that focuses on the wrong kind of papers.
+
+A good literature review is more than a summary of several articles. Rather, it should be a concise overview of the **most important work and key background information** related to your topic. The focus of your review should be on identifying and summarizing relevant and influential articles.
+
+As you study a paper, write a one paragraph summary of it that answers the following questions:
+
+- What is the main idea or overaching goal of the paper? If you had to summarize it in one sentence, what would you say? If you can't do this, you probably don't yet have a good grip on the key idea of the paper.
+
+- How is the paper connected to the broader literature? What earlier work does it build upon? What later work, if any, did it inspire?
+
+- What are the technical methods of the paper? If it's experimental, what are the data sets and analysis techniques? If it's an engineering paper, what is the tool or system? One way to answer these questions is to write a one sentence summary of each major section of the paper.
+
+- Are there limitations or weaknesses of the paper, whether acknowledged or unacknowledged?
+
+Here's a summary of the (Nakamoto, 2008) Bitcoin paper:
+
+> This paper describes Bitcoin, a peer-to-peer system that uses cryptographic protocols to allow irreversible cash-like transactions
+over the Internet without the need for trusted third parties such as banks. This is the original article that provided the first public description of the Bitcoin protocol. Much of later cryptocurrency research is either an elaboration of the ideas developed in this paper or a reaction to flaws that have been identified since it appeared. In the Bitcoin system, a transaction is a cryptographically-signed message authorizing the transfer of digital currency from one party to another. To ensure that a payer cannot spend the same coin more than once, there must be a global, timestamped record of transactions that tracks when and where each coin was spent. In traditional systems this role is filled by a trusted bank, but in the Bitcoin system it is accomplished by a distributed network of nodes that maintain a public ledger of all transactions. The introduction of new data into the ledger requires solving a computationally difficult "proof-of-work" problem (inspired by Adam Back's Hashcash system) that cryptographically ties new transactions to old transactions in a way that would make it infeasible for an adversary to overwrite confirmed payments. The paper presents a statistical argument that the system will remain secure from attack as long as a majority of its total computational power is in honest hands.
 
 
 ### Writing the Methods and Results
