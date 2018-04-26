@@ -251,13 +251,35 @@ As you study a paper, write a one paragraph summary of it that answers the follo
 
 - Are there limitations or weaknesses of the paper, whether acknowledged or unacknowledged?
 
-For example, here's a summary of the (Nakamoto, 2008) Bitcoin paper:
+For example, here's my summary of the (Nakamoto, 2008) Bitcoin paper:
 
 > This paper describes Bitcoin, a peer-to-peer system that uses cryptographic protocols to allow irreversible cash-like transactions
 over the Internet without the need for trusted third parties such as banks. This is the original article that provided the first public description of the Bitcoin protocol. In the Bitcoin system, a transaction is a cryptographically-signed message authorizing the transfer of digital currency from one party to another. To ensure that a payer cannot spend the same coin more than once, there must be a global, timestamped record of transactions that tracks when and where each coin was spent. In the Bitcoin system, a distributed network of nodes maintains a public ledger of all transactions. New transactions are  only accepted after being validated against the ledger. The introduction of new data into the ledger requires solving a computationally difficult "proof-of-work" problem (inspired by Adam Back's Hashcash system) that cryptographically ties new transactions to old transactions in a way that makes it infeasible for adversaries to modify the ledger. The paper presents a statistical argument that the system will remain secure from attack as long as a majority of its total computational power is in honest hands. The system described in the paper supports only irreversible, trustless, cash-like transactions.
 
 As you read papers, collect your summaries, along with the citation information for each paper, in a document (or better yet, use a citation management system like Zotero).
 
+To write the Literature Review section,
+
+1. Group your papers into two to four natural categories. Each category becomes a subsection of the full Lit Review section.
+
+2. Arrange the papers in each category chronologically. Carefully investigate any large, decade-plus gaps in your coverage. For example, if your survey of neural networks included only papers from the 1960's and modern post-2010 papers, **that would be a problem**.
+
+3. Using your summaries as a starting point, write one paragraph for each paper in each subsection, with an emphasis on describing the evolution of each stream of research and the key ideas that developed along the way. You don't have to include all of the technical detail you captured in your original summaries.
+
+4. Write an introductory paragraph to each subsection.
+
+Here's part of the lit review taken from my own dissertation. The numbers in parentheses are references. Notice that the motivation, data sources, and key results of each paper are summarized and that the later paper is connected back to the first study.
+
+> An important early study of file system behavior was carried out by Ousterhout et al. (64) at UC-Berkeley in 1985. The Berkeley study
+was motivated by a series of questions that have remained relevant to file system design and development in the present day. In particular, identifying common file access patterns (and, by extension, the protocols that best serve those access patterns), and investigating the management and performance benefits of in-memory disk block caching. The Berkeley team approached these questions by analyzing a set of traces collected from the UNIX 4.2 BSD file system (51).
+
+    The Berkeley study empirically confirmed several commonly held beliefs concerning UNIX file access. First, users access files in a sporadic, but bursty fashion: most users averaged only a few hundred bytes of data transfer per second over the lifetime of the trace, but peak per-user transfer rates could be as high as 100 KB per second. Second, most files are small, but large files account for the majority of bytes transferred.
+    
+    (*SNIP*)
+    
+    Baker et al. revisited many of the results of the original 1985 BSD study in (9), where they worked with a set of logical file system traces taken from the Sprite network operating system (63). Their results show that the key insights of the BSD study remained valid in 1991, despite the shift from time-shared minicomputers to more powerful personalized workstations.
+    
+ 
 
 
 
