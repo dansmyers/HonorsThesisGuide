@@ -149,11 +149,16 @@ In these kinds of papers, the Problem Description section may incorporate some q
 
 Note that the section names can be changed to something more descriptive if it's appropriate.
 
+### Placement of the Literature Review
+
+In theses and dissertations, it's traditional to place the Literature Review right after the Introduction, before the original content. In many CS papers, however, the review often comes *after* the main body of the paper, before the conclusion. This placement allows the 
+authors to present their original ideas first, then connect them back to the broader literature.
+
 ## Tips for Writing Individual Sections
 
 ### Abstract
 
-The abstract is a one-paragraph summary of the entire paper. Write this last.
+Your document should include an Abstract before the Introduction, which gives a one-paragraph summary of the entire paper. Write it last.
 
 ### Writing the Introduction
 
@@ -175,7 +180,11 @@ The key to structuring your introduction is to include **reader orientation para
 
 I recommend the following structure for your introduction.
 
-1. Begin by stating a big, obvious problem of general interest. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis.
+1. Begin by stating a broad problem of general interest. For example, here's the first line of Satoshi's original 2008 Bitcoin paper:
+
+> Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
+
+The paper doesn't begin by diving in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependency on large financial institutions, which the audience of the paper would clearly perceive as a significant issue.
 
 2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have addressed aspects of this problem. This may be a relevant quote from one of your sources. Together, these items make up your first paragraph.
 
