@@ -272,12 +272,12 @@ Here's part of the lit review taken from my own dissertation. The numbers in par
 
 > An important early study of file system behavior was carried out by Ousterhout et al. (64) at UC-Berkeley in 1985. The Berkeley study
 was motivated by a series of questions that have remained relevant to file system design and development in the present day. In particular, identifying common file access patterns (and, by extension, the protocols that best serve those access patterns), and investigating the management and performance benefits of in-memory disk block caching. The Berkeley team approached these questions by analyzing a set of traces collected from the UNIX 4.2 BSD file system (51).
-
-    The Berkeley study empirically confirmed several commonly held beliefs concerning UNIX file access. First, users access files in a sporadic, but bursty fashion: most users averaged only a few hundred bytes of data transfer per second over the lifetime of the trace, but peak per-user transfer rates could be as high as 100 KB per second. Second, most files are small, but large files account for the majority of bytes transferred.
-    
-    (*SNIP*)
-    
-    Baker et al. revisited many of the results of the original 1985 BSD study in (9), where they worked with a set of logical file system traces taken from the Sprite network operating system (63). Their results show that the key insights of the BSD study remained valid in 1991, despite the shift from time-shared minicomputers to more powerful personalized workstations.
+>
+> The Berkeley study empirically confirmed several commonly held beliefs concerning UNIX file access. First, users access files in a sporadic, but bursty fashion: most users averaged only a few hundred bytes of data transfer per second over the lifetime of the trace, but peak per-user transfer rates could be as high as 100 KB per second. Second, most files are small, but large files account for the majority of bytes transferred.
+>    
+>    (*SNIP*)
+>    
+> Baker et al. revisited many of the results of the original 1985 BSD study in (9), where they worked with a set of logical file system traces taken from the Sprite network operating system (63). Their results show that the key insights of the BSD study remained valid in 1991, despite the shift from time-shared minicomputers to more powerful personalized workstations.
     
  
 
