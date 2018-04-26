@@ -66,7 +66,7 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 
 ### Rough Timeline
 
-| Deliverable   |  Date |
+| Deliverable | Date |
 |----------|------:|
 | Draft of literature review and reference list | October 15 |
 | Mid-course presentation to committee | December 1 |
