@@ -233,9 +233,9 @@ The Literature Review has a few key purposes:
 
 Three problems plague the thesis literature review process:
 
-1. Doing the absolute minimum and ending up with a literature review that's too sparse and cursory to show any understanding of the area.
+1. Doing the minimum and ending up with a literature review that's too sparse and cursory to show any understanding of the area.
 
-2. The opposite, taking forever with the lit review and refusing to move on the actual thesis. This is a favorite procrastination technique of insecure grad students.
+2. The opposite: taking forever with the lit review and refusing to move on the actual thesis. This is a favorite procrastination technique of insecure grad students.
 
 3. The most insidious one: doing a lengthy literature review that focuses on the wrong kind of papers.
 
@@ -260,11 +260,11 @@ As you read papers, collect your summaries, along with the citation information 
 
 To write the Literature Review section,
 
-1. Group your papers into two to four natural categories. Each category becomes a subsection of the full Lit Review section.
+1. Group your papers into two to four natural categories. Each category becomes a numbered subsection.
 
 2. Arrange the papers in each category chronologically. Carefully investigate any large, decade-plus gaps in your coverage. For example, if your survey of neural networks included only papers from the 1960's and modern post-2010 papers, **that would be a problem**.
 
-3. Using your summaries as a starting point, write one paragraph for each paper in each subsection, with an emphasis on describing the evolution of each stream of research and the key ideas that developed along the way. You don't have to include all of the technical detail you captured in your original summaries.
+3. Using your summaries as a starting point, write one paragraph for each paper in each subsection, with an emphasis on describing the evolution of each stream of research and the key ideas that developed along the way. You **don't** have to include all of the technical detail you captured in your original summaries.
 
 4. Write an introductory paragraph to each subsection that introduces the area of research and its major themes.
 
