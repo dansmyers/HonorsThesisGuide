@@ -182,9 +182,9 @@ I recommend the following structure for your introduction.
 
 1. Begin by stating a broad problem of general interest. For example, here's the first line of Satoshi's original 2008 Bitcoin paper:
 
-  > Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
+ > Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
   
-  The paper doesn't begin by diving in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependency on large financial institutions, which the audience of the paper would clearly perceive as a significant issue.
+ The paper doesn't begin by diving in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependency on large financial institutions, which the audience of the paper would clearly perceive as a significant issue.
 
 2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have addressed aspects of this problem. This may be a relevant quote from one of your sources. Together, these items make up your first paragraph.
 
