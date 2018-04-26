@@ -64,7 +64,7 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 
 ## Basic Requirements
 
-### Rough Timeline
+### Approximate Timeline
 
 | Deliverable | Date |
 |----------|------:|
