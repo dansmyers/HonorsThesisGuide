@@ -80,19 +80,23 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 
 ### Length
 
-A reasonable goal for a thesis is enough material for a single computer science research article. A normal CS conference paper would be about 12-15 pages in a tight two-column LaTEX format, which corresponds to **20 to 30 pages** in a normal MS-Word format.
+A reasonable goal for a thesis is enough material for a single computer science research article. A normal CS conference paper would be about 12-15 pages in a tight two-column LaTeX format, which corresponds to **20 to 30 pages** in a typical MS-Word document.
 
 That said, length is ultimately a function of the project. You'll write as much as you need to write to describe your problem, process, and results.
 
 ### Formatting
 
-Most students type their theses in Microsoft Word. Use normal margins and 12-point Times New Roman or a similar professional-looking font. Set the line spacing to 1.4.
+Most students type their theses in Microsoft Word. If you are going to grad school and want to learn LaTeX, we can talk about it.
 
-If you are going to grad school and want to learn LaTEX, we can talk about it.
+Use normal margins and 12-point Times New Roman or a similar professional-looking font. Set the line spacing to 1.5.
 
-Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth.
+Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth. You can use numbered sub-subsections if necessary, but those are often better handled with un-numbered paragraph headings.
 
-References should be cited using APA-style (Name, Date) pairs in parenthesis. Many CS papers use numbered references in brackets, like [1, 2], but this style is hard to use without an automatic citation manager such as BibTEX.
+References should be cited using APA-style (Name, Date) pairs in parenthesis.
+
+> The original Bitcoin protocol was developed by a person or group using the pseudonym "Satoshi Nakamoto" and publicly described in (Nakamoto, 2008).
+
+Many CS papers use numbered references in brackets, like [1, 2], but this style is hard to use without an automatic citation manager such as BibTEX.
 
 Include a title page with the project title, your name, etc.
 
