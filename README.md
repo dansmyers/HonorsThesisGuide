@@ -266,12 +266,12 @@ To write the Literature Review section,
 
 3. Using your summaries as a starting point, write one paragraph for each paper in each subsection, with an emphasis on describing the evolution of each stream of research and the key ideas that developed along the way. You don't have to include all of the technical detail you captured in your original summaries.
 
-4. Write an introductory paragraph to each subsection.
+4. Write an introductory paragraph to each subsection that introduces the area of research and its major themes.
 
-Here's part of the lit review taken from my own dissertation. The numbers in parentheses are references. Notice that the motivation, data sources, and key results of each paper are summarized and that the later paper is connected back to the first study. Here, the first paragraph doubles as a introduction to the entire subsection, because it lays out some major questions that have been revisted again and again by file system researchers.
+Here's an edited part of the lit review taken from my own dissertation. The numbers in parentheses are references. Notice that the motivation, data sources, and key results of each paper are summarized and that the later paper is connected back to the first study. Here, the first paragraph doubles as an introduction to the entire subsection, because it lays out some major questions that have been revisted again and again by file system researchers.
 
 > An important early study of file system behavior was carried out by Ousterhout et al. at UC-Berkeley in 1985 (64). The Berkeley study
-was motivated by a series of questions that have remained relevant to file system design and development in the present day: identifying common file access patterns (and, by extension, the protocols that best serve those access patterns), and investigating the management and performance benefits of in-memory disk block caching. The Berkeley team approached these questions by analyzing a set of traces collected from the UNIX 4.2 BSD file system (51).
+was motivated by questions that have remained relevant to file system design and development in the present day: identifying common file access patterns (and, by extension, the protocols that best serve those access patterns), and investigating the management and performance benefits of in-memory disk block caching. The Berkeley team approached these questions by analyzing a set of traces collected from the UNIX 4.2 BSD file system (51).
 >
 > The Berkeley study empirically confirmed several commonly held beliefs concerning UNIX file access. First, users access files in a sporadic, but bursty fashion: most users averaged only a few hundred bytes of data transfer per second over the lifetime of the trace, but peak per-user transfer rates could be as high as 100 KB per second. Second, most files are small, but large files account for the majority of bytes transferred. Third, most file accesses are sequential, and files tend to be sequentially read or written in their entirety. Fourth, most files are open for a short time and new files are likely to be temporary and have short lifetimes.
 >    
