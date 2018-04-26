@@ -180,17 +180,21 @@ The key to structuring your introduction is to include **reader orientation para
 
 I recommend the following structure for your introduction.
 
-1. Begin by stating a broad problem of general interest. For example, here's the first line of Satoshi's original 2008 Bitcoin paper:
+1. Begin by stating a broad issue of general interest. For example, here's the first line of Satoshi's original 2008 Bitcoin paper:
 
     > Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
   
-    The paper doesn't begin by diving in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependency on large financial institutions, which the audience of the paper would clearly perceive as a significant issue.
+    The paper doesn't begin by diving right in to the technical details of Bitcoin. Rather, it opens by calling attention to the Internet's dependence on large financial institutions.
+    
+    You may want to include one or two more sentences to provide a little more context on the problem and elaborate on its significance. Your overall goal is to get the reader's attention by connecting the topic of your study to a significant problem.
 
-2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have addressed aspects of this problem. This may be a relevant quote from one of your sources. Together, these items make up your first paragraph.
+2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have recognized this problem and addressed aspects of it. This may include a relevant quote from one of your sources.
 
-3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify the gap in the existing research that your thesis addresses. The rest of your second paragraph elaborates on why this gap is a problem that merits attention.
+3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify the gap in the existing research that your thesis addresses. **The Kicker sentence must be on the first page of your document**. 
 
-4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What broad analysis techniques or theoretical frameworks?
+    The rest of the paragraph following the Kicker elaborates on why this gap is a problem that must be addressed, in the context of the major issue you identified at the beginning of the paper.
+
+4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What analysis techniques or theoretical frameworks do you draw upon?
 
 5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure. This section can be didactic. It's okay to tell the reader something as explicit as "This paper makes the following contributions..." or "The key result of this paper is..."
 
@@ -198,7 +202,7 @@ Taken together, this structure does several things:
 
 - It connects your thesis to an issue of recognized importance.
 
-- It establishes that other researchers see this issue as important and that you're aware of the scholarly conversation around it.
+- It establishes that other researchers care about this issue and that you're aware of the scholarly conversation around it.
 
 - It identifies a meaningful gap in the current work, which provides the rationale for your study.
 
