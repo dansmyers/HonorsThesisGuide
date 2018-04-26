@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a guide for students working with me to prepare an Honors thesis in computer science at Rollins College. It provides some guidelines on the thesis process, timelines, and specifications for formatting and writing your thesis document.
+This is a guide for preparing an Honors thesis in computer science at Rollins College. It provides some guidelines on the thesis process, timelines, and specifications for formatting and writing your thesis document.
 
-This guide is **opinionated**. The "rules" it contains are only my thoughts on what seems to work well; they aren't official Rollins policies or universal requirements of all thesis projects in computer science. Some of the guidelines are arbitrary, but I think it's better for first-time researchers to have more guidance and structure rather than less.
+This guide is **opinionated**. The "rules" it contains are only our thoughts on what seems to work well; they aren't official Rollins policies or universal requirements of all thesis projects in computer science. Some of the guidelines are arbitrary, but they are presented in the spirit of giving you as much information and structure as possible.
 
 ## Process
 
@@ -18,9 +18,11 @@ There are several reasons for this:
 
 - Regular sessions keep your mind engaged on the project. Taking a long break from research requires you to spend the first part of your session just remembering where you left off last time. Keeping a journal, discussed below, will also help organize your work and keep you on task.
 
-- Brief sessions are mentally easier and less intimidating. You avoid the anxiety and perceived lack of progress that comes from scheduling four hours to work on your thesis, but only really working for less than two.
+- Brief sessions are mentally easier and less intimidating. You avoid the anxiety and perceived lack of progress that comes from scheduling six hours to work on your thesis, but only really working for two.
 
-- Finally, brief, regular sessions will actually let you accumulate more time on the project than trying to binge once a week.
+- Finally, brief, regular sessions will actually let you accumulate more total time on the project than binging once a week.
+
+### Scheduling
 
 I recommend blocking out a window of at least 30 minutes (45 or 60 minutes is better) on each day, Monday through Friday. This is your **scheduled research time** and you **will not schedule anything else** during this block. Treat it like a class.
 
@@ -28,15 +30,15 @@ We'll have a scheduled meeting once per week. Working in regular sessions will e
 
 ### Getting Unstuck
 
-If you get stuck on something, work to get yourself unstuck as soon as possible. Don't spend an entire week or more blocked and unable to make progress because of a technical issue, or because of something you don't understand and can't answer in a reasonable timeframe.
+If you get stuck on something, work to get yourself unstuck as soon as possible. Don't spend an entire week or more blocked and unable to make progress because of a technical issue, or because of something you don't understand and can't answer on your own in a reasonable timeframe.
 
-A rule of thumb: if you spend an entire daily research session stuck on one issue, let me know.
+In general, if you spend an entire daily research session stuck on one issue, let me know so we can debug it together.
 
 ### Research Journal
 
 You will keep a journal of your research activity each time you sit down to work on your project. Some researchers like paper journals or lab books. I use a plain text file that I type in while I work.
 
-The journal is your log of what happened during each session. It records your progress for each day: what you did, what problems you encountered and solved, any interesting things you observed. It's also the place for you to reflect on your own research process and explore issues like what's going well, what isn't, and how you can improve the process.
+The journal is your log of what happened during each session. It records your progress for each day: what you did, what problems you encountered and solved, any interesting things you observed. It's also the place for you to reflect on your own research process and explore issues such as what's going well, what isn't, and how you can improve your own research process.
 
 The journal is not a formal document. You don't have to turn it in, although I may end up seeing it at points.
 
@@ -54,11 +56,11 @@ Open your journal and make a heading for today. Spend a few minutes free writing
 
 Now dive in and work on your tasks for today. As you tackle each task, make a note of what you are doing. If you try something and it doesn't work, make a note of that, then note what you're trying next. As you obtain results, you'll also log those in the journal.
 
-Take a break if you need to, but resist the temptation to visit social media or Internet sites that aren't directly relevant to your project. You can sustain your focus for 40 minutes and the constant reflective journaling activity will help keep you engaged.
+Take a break if you need to, but resist the temptation to visit social media or Internet sites that aren't directly relevant to your project. You can sustain your focus for 40 minutes and the constant reflective journaling will help keep you engaged.
 
 When you reach the end of your time, or a natural stopping place, pause for a moment before concluding. Free write for a few more lines about what you did today and what you think you need to do next.
 
-Finally, **write down one to four tasks**, in order of priority, for the next session. This is your to-do list. When you come back next time, you'll tackle these tasks, with the highest priority one coming first. If a task seems too large, just break it into subtasks, then prioritize those.
+Finally, **write down one to four tasks**, in order of priority, for the next session. This is your to-do list. When you come back next time, you'll tackle these tasks, with the highest priority one coming first. If a task seems too large, break it into subtasks, then prioritize those.
 
 ## Basic Requirements
 
@@ -67,18 +69,20 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 | Deliverable   |  Date |
 |----------|------:|
 | Draft of literature review and reference list | October 15 |
-| Draft of introduction and methods section | End of fall semester |
+| Mid-course presentation to committee | December 1 |
+| Draft of introduction and methods sections | End of fall semester |
 | Draft of results section | March 15 |
 | Schedule defense | First week of April |
 | Draft of complete document with all sections, references, and figures | Two weeks prior to defense |
 | Final document delivered to committee | One week prior to defense |
+| Submission of final document with committee's revisions | End of spring semester |
 
 
 ### Length
 
 A reasonable goal for a thesis is enough material for a single computer science research article. A normal CS conference paper would be about 12-15 pages in a tight two-column LaTEX format, which corresponds to **20 to 30 pages** in a normal MS-Word format.
 
-That said, length is ultimately a function of the project. You'll write as much as you need to write to describe what you've done and what your results are. In practice, length by itself is almost never an issue with thesis documents.
+That said, length is ultimately a function of the project. You'll write as much as you need to write to describe your problem, process, and results.
 
 ### Formatting
 
@@ -92,11 +96,11 @@ References should be cited using APA-style (Name, Date) pairs in parenthesis. Ma
 
 Include a title page with the project title, your name, etc.
 
-## The Document
+## Document Sections and Structure
 
-### Common Structures
+### Experimental Theses
 
-A common plan for a research thesis has the following sections:
+Many theses have the following sections:
 
 - Introduction
 - Literature Review
@@ -105,9 +109,19 @@ A common plan for a research thesis has the following sections:
 - Discussion
 - Conclusion
 
-This structure is standard for papers that are broadly experimental, where the locus of the research is collecting and analyzing data from some source, with the goal of answering some questions. The Methods section summarizes the details of your experiment, such as data collection, processing, and analysis steps. The Results section presents quantitative and qualitative data that answer the experimental questions driving the paper. The Discussion section elaborates on the significance of the results, acknowledges limitations, and places them in broader context.
+This structure is standard for papers that are broadly experimental, where the locus of the research is collecting and analyzing some type of data.
 
-Simon Peyton-Jones suggests the following structure, which is useful for papers that are more engineering-oriented:
+- The Introduction orients the reader to the problem and your proposed approach and it provides a high-level overiew of the contributions of your document.
+
+- The Methods section summarizes the details of your experiment, such as the data collection, processing, and analysis steps. 
+
+- The Results section presents quantitative and qualitative data (as appropriate for your study) that answer the experimental questions driving the paper.
+
+- The Discussion section elaborates on the significance of the results, acknowledges limitations, and places them in broader context. it may also suggest directions for future work or elaboration.
+
+### Engineering Theses
+
+Simon Peyton-Jones suggests the following structure, which is useful for papers that are more engineering-oriented, where the locus of the research is building and validating a system, application, or tool:
 
 - Introduction
 - Literature Review
@@ -116,13 +130,15 @@ Simon Peyton-Jones suggests the following structure, which is useful for papers 
 - Details and Experimental Results
 - Conclusion
 
-In these kinds of papers, the Problem Description section usually incorporates some quantitative experiment simply to prove that the problem exists. The rest of the paper describes a solution and its implementation, then performs experiments to show that it really solves the original problem.
+In these kinds of papers, the Problem Description section may incorporate some quantitative experiment to prove that the problem exists. The rest of the paper describes the engineering solution, its design, and its implementation, then performs experiments to show that it really solves the original problem.
 
 Note that the section names can be changed to something more descriptive if it's appropriate.
 
+## Tips for Writing Individual Sections
+
 ### Abstract
 
-Your document will also include an abstract, which provides a one-paragraph summary of the entire paper. Write this last.
+The abstract is a one-paragraph summary of the entire paper. Write this last.
 
 ### Writing the Introduction
 
@@ -140,22 +156,37 @@ The Introduction section establishes the main idea for the entire paper. A reade
 
 The most important rule for introductions: **actually tell the reader what your thesis is about**. This is not a Hitchcock movie! You don't get extra credit for keeping the reader in suspense or making them guess what's going to happen next.
 
+The key to structuring your introduction is to include **reader orientation paragraphs** that clearly state what you are doing, why you are doing it, and why it matters.
+
 I recommend the following structure for your introduction.
 
-Begin by stating a big, obvious problem of general interest. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis. Provide two brief references to the literature (with citations) showing that other researchers have addressed aspects of this problem. Together, these items make up your first paragraph.
+1. Begin by stating a big, obvious problem of general interest. One that your grandmother would recognize as a problem. This immediately lifts your thesis out of narrow technical concerns and into the realm of real-world change. The problem you pick, of course, must be plausibly connected to the technical topic of your thesis.
 
-The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify a limitation that your thesis will now address. The next sentence explains why this gap is problem that demands to be filled. This is your second paragraph.
+2. Provide a brief reference to the literature (with one or more citations) showing that other researchers have addressed aspects of this problem. This may be a relevant quote from one of your sources. Together, these items make up your first paragraph.
 
-The next few paragraphs will summarize how your thesis addresses this limitation: what you propose to do, what data you've collected, what experiments you've performed, etc.
+3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence always begins with **"However,..."**, and then continues to identify the gap in the existing research that your thesis addresses. The rest of your second paragraph elaborates on why this gap is a problem that merits attention.
 
-Now, this has to be written in a beliveable way. You can't claim that your thesis is going to solve global warming, but you might be able to identify one new fact in one previously underexplored area, and that's enough for one project.
+4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What broad analysis techniques or theoretical frameworks?
 
-The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
+5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure. This section can be didactic. It's okay to tell the reader something as explicit as "This paper makes the following contributions..." or "The key result of this paper is..."
+
+Taken together, this structure does several things:
+
+- It connects your thesis to an issue of recognized importance.
+
+- It establishes that other researchers see this issue as important and that you're aware of the scholarly conversation around it.
+
+- It identifies a meaningful gap in the current work, which provides the rationale for your study.
+
+- It gives readers a brief, but engaging overview of your approach, so that they are ready to read on and learn more.
+
+- Finally, it expicitly tells the reader what contributions you are making and why they are important.
+
 
 ### Writing the Literature Review
 
 
-### Writing the Results
+### Writing the Methods and Results
 
 
-## Writing Tips
+## General Writing Tips
