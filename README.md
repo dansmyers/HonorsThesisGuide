@@ -94,7 +94,7 @@ Sections and subsections should be numbered, with 1 for the Introduction, 2 for 
 
 ### References and Citations
 
-You should plan to accumulate at least **15 references** during the literature review phase of your project.
+You should plan to accumulate at least **12 references** during the literature review phase of your project.
 
 Your literature review should focus on **peer-reviewed scholarly articles published in research journals or computer science conference proceedings**.
 
@@ -105,9 +105,9 @@ Software engineering and web programming are other areas where influential writi
 
 Cite your references using APA-style (Name, Date) pairs in parentheses.
 
-> The original Bitcoin protocol was developed by a person or group using the pseudonym "Satoshi Nakamoto" and publicly described in (Nakamoto, 2008).
+> The original Bitcoin protocol was developed by a person or group using the pseudonym "Satoshi Nakamoto" and publicly described in a white paper released on the Internet (Nakamoto, 2008).
 
-Many CS papers use numbered references in brackets, e.g. [1, 2], but this style is hard to use without an automatic citation manager such as BibTeX. The (Name, Date) style allows you to modify your reference list without renumbering.
+Many CS papers use numbered references in brackets, e.g. [1, 2], but this style requires an automatic citation manager such as BibTeX. The (Name, Date) style allows you to modify your reference list without renumbering.
 
 List all your references in a section at the end of your document, after the Conclusion. Format each list entry according to APA guidelines and alphabetize them by the authors' last names.
 
@@ -179,7 +179,7 @@ The key to structuring your introduction is to include **reader orientation para
 
 I recommend the following structure for your introduction.
 
-1. Begin by stating a broad issue of general interest. For example, here's the first line of Satoshi's original 2008 Bitcoin paper:
+1. Begin by stating a broad issue of general interest. For example, here's the first line of Satoshi's 2008 Bitcoin paper:
 
     > Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments.
   
@@ -191,17 +191,28 @@ I recommend the following structure for your introduction.
 
 3. The next sentence is key. Karen Kelsky calls it **The Kicker**. The Kicker sentence identifies the gap in the existing research that your thesis addresses. **The Kicker sentence must be on the first page of your document**.
 
-    Here is a sentence that functions as a Kicker in Satoshi's paper:
+    Here is a sentence that functions as a Kicker in Satoshi's paper. It begins the second paragraph on the first page:
 
     > What is needed is an electronic payment system based on cryptographic proof instead of trust,
 allowing any two willing parties to transact directly with each other without the need for a trusted
 third party.
 
-    Think of the Kicker as the main topic sentence for your document. The drive to address this issue will ultimately motivate everything in the rest of the paper. 
+    Think of the Kicker as the main topic sentence for your entire thesis document. The drive to address this issue will ultimately motivate everything in the rest of the paper. 
     
     The rest of the paragraph following the Kicker elaborates on why this gap is a problem that must be addressed, in the context of the major issue you identified at the beginning of the paper.
-
+    
 4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What analysis techniques or theoretical frameworks do you draw upon?
+
+    Here is the complete second paragraph of the (Nakamoto, 2008) paper introduction. It tells you, in four sentences, the Kicker that motivates the paper, an elaboration of why this problem shoud be addressed, and what the paper presents.
+    
+    > What is needed is an electronic payment system based on cryptographic proof instead of trust,
+allowing any two willing parties to transact directly with each other without the need for a trusted
+third party. Transactions that are computationally impractical to reverse would protect sellers
+from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In
+this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed
+timestamp server to generate computational proof of the chronological order of transactions. The
+system is secure as long as honest nodes collectively control more CPU power than any
+cooperating group of attacker nodes.
 
 5. The end of the Introduction is a **bulleted list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
 
@@ -236,9 +247,9 @@ Three problems plague the thesis literature review process:
 
 2. The opposite: taking forever with the lit review and refusing to move on the actual thesis. This is a favorite procrastination technique of insecure grad students.
 
-3. The most insidious one: doing a lengthy literature review that focuses on the wrong kind of papers.
+3. Identifying a reasonable number of papers, but failing to present their content in a way that demonstrates understanding.
 
-A good literature review is more than a summary of several articles. Rather, it should be a concise overview of the **most important work and key background information** related to your topic. The focus of your review should be on identifying and summarizing relevant and influential articles.
+A good literature review is more than a summary of several articles. Rather, it should be a concise overview of the **most important work and key background information** related to your topic. The focus of your review should be on **identifying and summarizing relevant and influential articles**.
 
 As you study a paper, write a one paragraph summary of it that answers the following questions:
 
@@ -255,17 +266,17 @@ For example, here's my summary of the (Nakamoto, 2008) Bitcoin paper:
 > This paper describes Bitcoin, a peer-to-peer system that uses cryptographic protocols to allow irreversible cash-like transactions
 over the Internet without the need for trusted third parties such as banks. This is the original article that provided the first public description of the Bitcoin protocol. In the Bitcoin system, a transaction is a cryptographically-signed message authorizing the transfer of digital currency from one party to another. To ensure that a payer cannot spend the same coin more than once, there must be a global, timestamped record of transactions that tracks when and where each coin was spent. In the Bitcoin system, a distributed network of nodes maintains a public ledger of all transactions. New transactions are  only accepted after being validated against the ledger. The introduction of new data into the ledger requires solving a computationally difficult "proof-of-work" problem (inspired by Adam Back's Hashcash system) that cryptographically ties new transactions to old transactions in a way that makes it infeasible for adversaries to modify the ledger. The paper presents a statistical argument that the system will remain secure from attack as long as a majority of its total computational power is in honest hands. The system described in the paper supports only irreversible, trustless, cash-like transactions.
 
-As you read papers, collect your summaries, along with the citation information for each paper, in a document (or better yet, use a citation management system like Zotero).
+As you read papers, collect your summaries, along with the citation information for each paper, in a document (or better yet, a citation management system like Zotero).
 
 To write the Literature Review section,
 
-1. Group your papers into two to four natural categories. Each category becomes a numbered subsection.
+1. Group your papers into two to four natural categories. Each category becomes a numbered subsection in your document.
 
-2. Arrange the papers in each category chronologically. Carefully investigate any large, decade-plus gaps in your coverage. For example, if your survey of neural networks included only papers from the 1960's and modern post-2010 papers, **that would be a problem**.
+2. Write an introductory paragraph to each subsection that introduces the area of research and its major themes.
 
-3. Using your summaries as a starting point, write one paragraph for each paper in each subsection, with an emphasis on describing the evolution of each stream of research and the key ideas that developed along the way. You **don't** have to include all of the technical detail you captured in your original summaries.
+3. Arrange the papers in each category chronologically. Carefully investigate any large, decade-plus gaps in your coverage. For example, if your survey of neural networks included only papers from the 1960's and modern post-2010 papers, **that would be a problem**.
 
-4. Write an introductory paragraph to each subsection that introduces the area of research and its major themes.
+4. Using your summaries as a starting point, **write one paragraph for each paper**, with an emphasis on describing the evolution of each stream of research and the key ideas that developed over time. You **don't** have to include all of the technical detail you captured in your original summaries.
 
 Here's an edited part of the lit review taken from my own dissertation. The numbers in parentheses are references. Notice that the motivation, data sources, and key results of each paper are summarized and that the later paper is connected back to the first study. Here, the first paragraph doubles as an introduction to the entire subsection, because it lays out some major questions that have been revisted again and again by file system researchers.
 
@@ -276,11 +287,9 @@ was motivated by questions that have remained relevant to file system design and
 >    
 > Baker et al. revisited many of the results of the original 1985 BSD study in (9), where they worked with a set of logical file system traces taken from the Sprite network operating system (63). Their results show that the key insights of the BSD study remained valid in 1991, despite the shift from time-shared minicomputers to more powerful personalized workstations...
     
- 
-
-
 
 ### Writing the Methods and Results
+
 
 
 ## General Writing Tips
