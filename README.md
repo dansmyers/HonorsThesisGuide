@@ -24,7 +24,7 @@ There are several reasons for this:
 
 ### Scheduling
 
-I recommend blocking out a window of at least 30 minutes (45 or 60 minutes is better) on each day, Monday through Friday. This is your **scheduled research time** and you **will not schedule anything else** during this block. Treat it like a class.
+Block out a window of at least 30 minutes (45 or 60 minutes is better) on each day, Monday through Friday. This is your **scheduled research time** and you **will not schedule anything else** during this block. Treat it like a class.
 
 We'll have a scheduled meeting once per week. Working in regular sessions will ensure that you're prepared for our meetings so we can use them effectively to review what you've worked on and determine the next steps for the upcoming week.
 
@@ -32,7 +32,7 @@ We'll have a scheduled meeting once per week. Working in regular sessions will e
 
 If you get stuck on something, work to get yourself unstuck as soon as possible. Don't spend an entire week or more blocked and unable to make progress because of a technical issue, or because of something you don't understand and can't answer on your own in a reasonable timeframe.
 
-In general, if you spend an entire daily research session stuck on one issue, let me know so we can debug it together.
+In general, if you spend an entire daily research session stuck on one issue, let your advisor know so you can debug it together.
 
 ### Research Journal
 
