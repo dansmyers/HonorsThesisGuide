@@ -295,21 +295,20 @@ The contents of these sections depend on the details of your study, but the foll
 
 1. **Outline**. Start by writing an outline of each section.
 
-    For the methods, write down what you did to collect and analyze your data as a series of numbered steps. Then take each step and expand it into a series of numbered substeps. Repeat this process until you have a complete description of your methods that anyone could follow to repeat your work.
+    For the methods, write down what you did to collect and analyze your data as a series of numbered steps. Then take each step and expand it into a series of numbered substeps. Repeat this process until you have a complete description of your methods that anyone could follow to repeat your work. The methods section will typically have a subsection describing your data collection and another describing your analysis technique.
+
     
-    For the results, write down your key results, in order of best-supported to least-supported. For each result, write down one sentence summarries for each of its key pieces of supporting evidence. Some results may have several pieces of supporting evidence, some may only have one. For each piece of evidence, summarize the graph, table, or measurement that allows you to draw that conclusion.
+    For the results, write down your key results, in order of best-supported to least-supported. For each result, write down one sentence summaries for each of its key pieces of supporting evidence. Some results may have several pieces of supporting evidence, some may only have one. For each piece of evidence, summarize the graph, table, or measurement that allows you to draw that conclusion.
     
-    The methods section will typically have a subsection describing your data collection and another describing your analysis technique.
-    
-    Each of your main results will become a subsection, with each piece of supporting evidence a paragraph in that subsection.
+    Each of your main results will become a subsection, with each piece of supporting evidence expanded into one or two paragraphs.
 
-2. **More details**.
+2. **More details**. This is your one and only chance to tell your readers about your work. They want to know the details so they can appreciate what you did! Take pride in your work and give them what they crave! Describe your methodology! Support your results! Tell readers why your work matters!
 
-3. **Show your work**.
+3. **Show your work**. You may need to transform data, make calculations, or derive new measurements from raw values. **Carefully explain these steps**, why they are necessary, and how you implemented them. Readers need to have confidence that the numbers you've calculated accurately measure what you claim they measure. This is particularly important if you later show calculated values in a graph or table. **Don't be afraid to illustrate your methods with small examples**.
 
-4. **No unsupported assertions**. Everything you claim must be backed up by either supporting data from your study or a citation. ***Everything***. 
+4. **No unsupported assertions**. Everything you claim must be backed up by either supporting data from your study or a citation. ***Everything***. **Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) ***proves*** without careful qualification.
 
-5. **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Graphs should have legends. 
+5. **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Give your graphs legends.
 
     For tables, make sure your columns and rows have descriptive titles and explain which values in the table illustrate the point you want to make.
     
@@ -327,11 +326,16 @@ The contents of these sections depend on the details of your study, but the foll
     
     - Include a table of notation in mathematical papers.
     
-7. **Anticipate objections and address them**.
+7. **Acknowledge limitations**. All studies have imperfections. Don't try to hide yours, or pretend they don't exist. Instead, acknoweldge any issues that exist with your data or limitations with your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
 
-8. **Acknowledge limitations**. All studies have imperfections. Don't try to hide yours, or pretend they don't exist. Instead, acknoweldge any issues that exist with your data or limitations with your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
+    In the same spirit, write defensively. Anticipate your readers' objections and structure your argument and presentation to address them. For example, if you're doing a qualitative study with a small *N*, you know that's going to be an issue, so address it head on. You might, for example, acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants.
 
-9. **Structure for impact**.
+8. **Structure for impact**. Organize your sections to emphasize your key points.
 
+    - **Continue to tell the reader what's important**. Call out your main results and key pieces of evidence. Don't bury your most important information in the middle of paragraphs.
+    
+    - Organize your results into numbered subsections. Giving something a heading automatically makes it more important.
 
+    - Present your strongest and best-supported results first, progressing to your least-supported points. The trust you build in the early sections will carry you through the more speculative parts.
+    
 ## General Writing Tips
