@@ -92,13 +92,24 @@ Use normal margins and 12-point Times New Roman or a similar professional-lookin
 
 Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth. You can use numbered sub-subsections if necessary, but those are often better handled with un-numbered paragraph headings.
 
-References should be cited using APA-style (Name, Date) pairs in parenthesis.
+### References and Citations
+
+You should plan to accumulate at least **15 references** during the literature review phase of your project.
+
+Your literature review should focus on **peer-reviewed scholarly articles published in research journals or computer science conference proceedings**.
+
+General-interest media articles, opinion pieces, blog posts, etc., even those published in reputable news outlets such as the *New York Times*, are not appropriate citation material, unless the media itself is the focus of your study.
+
+Because the CS field is built around dialogue between academics and industry practitioners, there are cases where important work has appeared outside of the traditional peer-reviewed publishing process. Satoshi Nakamoto's original 2008 Bitcoin paper is a good example. It was first published pseudonymously on the Internet, and other cryptocurrency developers (who are mostly not traditional academics) have adopted the practice of releasing their work in public white papers.
+Software engineering and web programming are other areas where influential writing has happened outside of scholarly journals and conferences.
+
+Cite your references using APA-style (Name, Date) pairs in parentheses.
 
 > The original Bitcoin protocol was developed by a person or group using the pseudonym "Satoshi Nakamoto" and publicly described in (Nakamoto, 2008).
 
-Many CS papers use numbered references in brackets, like [1, 2], but this style is hard to use without an automatic citation manager such as BibTEX.
+Many CS papers use numbered references in brackets, e.g. [1, 2], but this style is hard to use without an automatic citation manager such as BibTeX. The (Name, Date) style allows you to modify your reference list without renumbering.
 
-Include a title page with the project title, your name, etc.
+List all your references in a section at the end of your document, after the Conclusion. Format each list entry according to APA guidelines and alphabetize them by the authors' last names.
 
 ## Document Sections and Structure
 
