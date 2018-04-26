@@ -136,7 +136,7 @@ This structure is standard for papers that are broadly experimental, where the l
 
 ### Engineering Theses
 
-Simon Peyton-Jones suggests the following structure, which is useful for papers that are more engineering-oriented, where the locus of the research is building and validating a system, application, or tool:
+Simon Peyton-Jones suggests the following structure for engineering-oriented papers, where the locus of the research is building and validating a system, application, or tool:
 
 - Introduction
 - Literature Review
@@ -151,18 +151,17 @@ Note that the section names can be changed to something more descriptive if it's
 
 ### Placement of the Literature Review
 
-In theses and dissertations, it's traditional to place the Literature Review right after the Introduction, before the original content. In many CS papers, however, the review often comes *after* the main body of the paper, before the conclusion. This placement allows the 
-authors to present their original ideas first, then connect them back to the broader literature.
+In theses and dissertations, it's traditional to place the Literature Review right after the Introduction, before the presentation of your new research. In many CS papers, however, the review often comes *after* the main body of the paper, before the conclusion. This placement allows the authors to present their original ideas first, then place them in the context of the broader literature.
 
 ## Tips for Writing Individual Sections
 
 ### Abstract
 
-Your document should include an Abstract before the Introduction, which gives a one-paragraph summary of the entire paper. Write it last.
+Your document should include an Abstract before the Introduction, giving a one-paragraph summary of the entire paper. Write it last.
 
 ### Writing the Introduction
 
-*This section is influenced by Karen Kelsky's grant-writing template.*
+*This section is influenced by Karen Kelsky's grant writing template.*
 
 The Introduction section establishes the main idea for the entire paper. A reader should finish the introduction knowing
 
