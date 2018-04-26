@@ -251,10 +251,14 @@ As you study a paper, write a one paragraph summary of it that answers the follo
 
 - Are there limitations or weaknesses of the paper, whether acknowledged or unacknowledged?
 
-Here's a summary of the (Nakamoto, 2008) Bitcoin paper:
+For example, here's a summary of the (Nakamoto, 2008) Bitcoin paper:
 
 > This paper describes Bitcoin, a peer-to-peer system that uses cryptographic protocols to allow irreversible cash-like transactions
-over the Internet without the need for trusted third parties such as banks. This is the original article that provided the first public description of the Bitcoin protocol. Much of later cryptocurrency research is either an elaboration of the ideas developed in this paper or a reaction to flaws that have been identified since it appeared. In the Bitcoin system, a transaction is a cryptographically-signed message authorizing the transfer of digital currency from one party to another. To ensure that a payer cannot spend the same coin more than once, there must be a global, timestamped record of transactions that tracks when and where each coin was spent. In traditional systems this role is filled by a trusted bank, but in the Bitcoin system it is accomplished by a distributed network of nodes that maintain a public ledger of all transactions. New transactions are  only accepted after being validated against the ledger. The introduction of new data into the ledger requires solving a computationally difficult "proof-of-work" problem (inspired by Adam Back's Hashcash system) that cryptographically ties new transactions to old transactions in a way that makes it infeasible for adversaries to modify the ledger. The paper presents a statistical argument that the system will remain secure from attack as long as a majority of its total computational power is in honest hands.
+over the Internet without the need for trusted third parties such as banks. This is the original article that provided the first public description of the Bitcoin protocol. In the Bitcoin system, a transaction is a cryptographically-signed message authorizing the transfer of digital currency from one party to another. To ensure that a payer cannot spend the same coin more than once, there must be a global, timestamped record of transactions that tracks when and where each coin was spent. In the Bitcoin system, a distributed network of nodes maintains a public ledger of all transactions. New transactions are  only accepted after being validated against the ledger. The introduction of new data into the ledger requires solving a computationally difficult "proof-of-work" problem (inspired by Adam Back's Hashcash system) that cryptographically ties new transactions to old transactions in a way that makes it infeasible for adversaries to modify the ledger. The paper presents a statistical argument that the system will remain secure from attack as long as a majority of its total computational power is in honest hands. The system described in the paper supports only irreversible, trustless, cash-like transactions.
+
+As you read papers, collect your summaries, along with the citation information for each paper, in a document (or better yet, use a citation management system like Zotero).
+
+
 
 
 ### Writing the Methods and Results
