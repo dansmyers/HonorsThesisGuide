@@ -293,31 +293,45 @@ Your Methods and Results are the **most imporant sections of your paper**. They 
 
 The contents of these sections depend on the details of your study, but the following guidelines will help you.
 
-1. **More details**.
+1. **Outline**. Start by writing an outline of each section.
 
-2. **Show your work**.
+    For the methods, write down what you did to collect and analyze your data as a series of numbered steps. Then take each step and expand it into a series of numbered substeps. Repeat this process until you have a complete description of your methods that anyone could follow to repeat your work.
+    
+    For the results, write down your key results, in order of best-supported to least-supported. For each result, write down one sentence summarries for each of its key pieces of supporting evidence. Some results may have several pieces of supporting evidence, some may only have one. For each piece of evidence, summarize the graph, table, or measurement that allows you to draw that conclusion.
+    
+    The methods section will typically have a subsection describing your data collection and another describing your analysis technique.
+    
+    Each of your main results will become a subsection, with each piece of supporting evidence a paragraph in that subsection.
 
-3. **No unsupported assertions**. Everything you claim must be backed up by either supporting data from your study or a citation. ***Everything***. 
+2. **More details**.
 
-4. **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Graphs should have legends. For tables, make sure your columns and rows have descriptive titles and explain which values in the table illustrate the point you want to make.
+3. **Show your work**.
 
-5. **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+4. **No unsupported assertions**. Everything you claim must be backed up by either supporting data from your study or a citation. ***Everything***. 
 
-    - Use color sparingly, if at all.
+5. **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Graphs should have legends. 
+
+    For tables, make sure your columns and rows have descriptive titles and explain which values in the table illustrate the point you want to make.
+    
+6. **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+
+    - Use color sparingly, if at all. Some people are colorblind, and differences in line style are often easier to distinguish than solid lines of different colors.
     
     - More than two or three lines per graph is hard to interpret.
     
-    - Huge tables full of numbers are also hard to interpret.
+    - Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries.
     
-    - Use line plots for continuous data or discrete sets with many points. Use bar graphs or scatter plots for discrete data.
+    - Use line plots for continuous data or discrete sets with many points. Use bar graphs or scatter plots for discrete measurements.
     
-    - Graph axes should always start at 0. **Do not** set the minimum axis value based on the data.
+    - Vertical graph axes should always start at 0. **Do not** set the axis range to the data range: this is a common trick to make minor differences appear more significant. Readers will be immediately skeptical of any graph that does not start at 0.
     
-5. **Anticipate objections and address them**.
+    - Include a table of notation in mathematical papers.
+    
+7. **Anticipate objections and address them**.
 
-6. **Acknowledge limitations**. All studies have imperfections. Don't try to hide yours, or pretend they don't exist. Instead, acknoweldge any issues that exist with your data or limitations with your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
+8. **Acknowledge limitations**. All studies have imperfections. Don't try to hide yours, or pretend they don't exist. Instead, acknoweldge any issues that exist with your data or limitations with your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
 
-7. **Structure for impact**.
+9. **Structure for impact**.
 
 
 ## General Writing Tips
