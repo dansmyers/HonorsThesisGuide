@@ -246,7 +246,7 @@ Three problems plague the thesis literature review process:
 
 2. The opposite: taking forever with the lit review and refusing to move on the actual thesis. This is a favorite procrastination technique of insecure grad students.
 
-3. Identifying a reasonable number of papers, but failing to present their content in a way that demonstrates understanding.
+3. A review that summarizes a more-or-less random set of tangentially related papers, with no regard for their relationships or relative importance. This is what you get if you base your research on the top links returned by Google Scholar.
 
 A good literature review is more than a summary of several articles. Rather, it should be a concise overview of the **most important work and key background information** related to your topic. The focus of your review should be on **identifying and summarizing relevant and influential articles**.
 
