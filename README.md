@@ -293,7 +293,7 @@ Your Methods and Results are the **most imporant sections of your paper**. They 
 
 The contents of these sections depend on the details of your study, but the following guidelines will help you.
 
-1. Outline Your Sections
+- Outline Your Sections
 
     The Methods section will typically have a subsection describing your data collection and another describing your analysis techniques.
 
@@ -309,7 +309,7 @@ The contents of these sections depend on the details of your study, but the foll
     
     Throughout these sections, **continue to tell the reader what's important**. Call out your main results and key pieces of evidence. Don't bury important information in the middle of paragraphs.
 
-2. Explain the Details
+- Explain the Details
 
     Most student drafts **are light on details**. Readers **want to know what you did**. Always err on the side of describing things in thorough, even exhaustive, detail. Do not attempt to summarize a complex method or argument in a single sentence.
 
@@ -324,8 +324,10 @@ The contents of these sections depend on the details of your study, but the foll
     Don't **tell** the reader something without **showing** the data that allowed you to draw that conclusion.
 
     **Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) *proves* without careful qualification.
+    
+    Also, words like *significant*, *rate*, and *trend* have **specific technical definitions**.
 
-3. Graphs, Figures, and Tables
+- Graphs, Figures, and Tables
 
     **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Give your graphs legends.
 
@@ -337,15 +339,15 @@ The contents of these sections depend on the details of your study, but the foll
     
     - More than two or three lines per graph is hard to interpret.
     
-    - Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries.
+    - Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries. Show only the set of values needed to illustrate your point.
     
     - Use line plots for continuous data or discrete sets with many points. Use bar graphs or scatter plots for discrete measurements.
     
-    - Vertical graph axes should always start at 0. **Do not** set the axis range to the data range: this is a common trick to make minor differences appear more significant. Readers will be immediately skeptical of any graph that does not start at 0.
+    - Vertical graph axes should always start at 0. **Do not set the axis range to the data range**: this is a common trick to make minor differences appear more significant. Readers will be immediately skeptical of any graph that does not start at 0.
     
     - Include a table of notation in mathematical papers.
 
-4. Acknowledge Your Limitations
+- Acknowledge Your Limitations
     
     All studies have imperfections. Don't try to hide yours, or pretend they don't exist.
 
