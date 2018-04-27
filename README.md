@@ -329,11 +329,15 @@ The contents of these sections depend on the details of your study, but the foll
 
 - Graphs, Figures, and Tables
 
-    **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Give your graphs legends.
+    **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+
+    **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement?
+    
+    Label graph axes and **always include units**. Multi-line plots should have a legend.
 
     Make sure your table columns and rows have descriptive titles. In your text, explain which values in the table illustrate the point you want to make.
     
-    **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+    Some additional tips:
 
     - Use color sparingly, if at all. Some people are colorblind, and differences in line style are often easier to distinguish than solid lines of different colors.
     
@@ -341,11 +345,11 @@ The contents of these sections depend on the details of your study, but the foll
     
     - Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries. Show only the set of values needed to illustrate your point.
     
-    - Use line plots for continuous data or discrete sets with many points. Use bar graphs or scatter plots for discrete measurements.
+    - Use line plots for **continuous data** or discrete sets with many points that effectively appear continuous. Use bar graphs or scatter plots for discrete measurements.
     
-    - Vertical graph axes should always start at 0. **Do not set the axis range to the data range**: this is a common trick to make minor differences appear more significant. Readers will be immediately skeptical of any graph that does not start at 0.
+    - Vertical graph axes should always start at 0. **Do not set the axis range to the data range**: this is a common trick to make minor differences appear important. Readers will be skeptical of any graph that does not start at 0.
     
-    - Include a table of notation in mathematical papers.
+    - Include a table of notation in mathematical papers, listing symbols, their meaning, and units where appropriate.
 
 - Acknowledge Your Limitations
     
@@ -358,3 +362,45 @@ The contents of these sections depend on the details of your study, but the foll
     For example, if you're doing a qualitative study with a small *N*, you know that generalizing your conclusions is going to be impossible. You could acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants, which can inform further research.
     
 ## General Writing Tips
+
+The previous sections gave advice on structuring your document and its sections. This section covers sentence-level writing.
+
+There are many guides, online and in books, that will help your writing.
+
+- *Elements of Style* by Strunk and White is a classic text, though it's sometimes criticized for being old-fashioned and overly prescriptive.
+
+- Joseph M. Williams' *Style: Toward Clarity and Grace* is more technical and less prescriptive, but it provides excellent discussion of the principles of clear writing. Williams emphasizes understanding how readers acquire and process written information, then using that knowledge to improve your own writing.
+
+Here are five common problems that we see in student writing.
+
+1. Doing Everything at the Last Minute
+
+    A thesis is a long and complex document. You can't expect to write it in a few short days, or have an acceptable paper after only one round of editing.
+    
+    Begin working on your thesis **before you feel ready**. The writing process forces you to clarify your ideas.
+    
+2. Passive Voice Sentences
+
+    In a passive construction, the primary actor of a sentence is placed as the object, at the end of the sentence after the verb.
+    
+    > The Internet Protocol (IP) was first described by Vint Cerf and Robert Kahn in 1974.
+    
+    Cerf and Kahn are the actual actors in this sentence and the Internet Protocol is the object of their action ("described"). An active voice sentence places the actor in the subject position and the object of the action after the verb:
+    
+    > Vint Cerf and Robert Kahn first described the Internet Protocol (IP) in 1974.
+    
+    Writing guides will tell you to avoid the passive voice and write in active voice.
+    
+    Passive sentences are weak because they obscure *who* is doing *what* to *whom*.
+    
+    > Mistakes were made.
+    
+    Well, **by whom**? The implication is "by us", but that's deliberately hidden from the reader. The active equivalent is direct and leaves no ambiguity:
+    
+    > We made mistakes.
+    
+    The easiest way to remove passive voice from your writing is to find and exterminate your use of "to be" verbs: *am*, *is*, *are*, *was*, *were*. Do a find on each of those and carefully consider whether their sentences can be rewritten into active counterparts.
+    
+    
+    
+    
