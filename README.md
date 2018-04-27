@@ -293,73 +293,73 @@ Your Methods and Results are the **most imporant sections of your paper**. They 
 
 The contents of these sections depend on the details of your study, but the following guidelines will help you.
 
-- Outline Your Sections
+#### Outline Your Sections
 
-    The Methods section will typically have a subsection describing your data collection and another describing your analysis techniques.
+The Methods section will typically have a subsection describing your data collection and another describing your analysis techniques.
 
-    To outline the Methods, write down what you did to collect and analyze your data as a series of numbered steps. Take each step and expand it into a series of numbered substeps. Repeat this process until you have a complete description of your methods that anyone in the field could follow to repeat your work. 
+To outline the Methods, write down what you did to collect and analyze your data as a series of numbered steps. Take each step and expand it into a series of numbered substeps. Repeat this process until you have a complete description of your methods that anyone in the field could follow to repeat your work. 
 
-    Structure the Results section as a series of numbered subsections, each presenting one of your main conclusions.
+Structure the Results section as a series of numbered subsections, each presenting one of your main conclusions.
 
-    - First write down your key conclusions, in order of best-supported to least-supported, then write down one sentence summaries of the supporting evidence for each conclusion.
+- First write down your key conclusions, in order of best-supported to least-supported, then write down one sentence summaries of the supporting evidence for each conclusion.
 
-        Note that some results may have several pieces of supporting evidence, some may only have one. The strength of a conclusion isn't determined by the *quantity* of evidence that you present. Trying to overwhelm a reader with low-quality data can backfire on you.
+    Note that some results may have several pieces of supporting evidence, some may only have one. The strength of a conclusion isn't determined by the *quantity* of evidence that you present. Trying to overwhelm a reader with low-quality data can backfire on you.
 
-    - Expand each of your summary sentences into a full paragraph, describing the measurement, graph, table, etc. that supports your conclusion.
+- Expand each of your summary sentences into a full paragraph, describing the measurement, graph, table, etc. that supports your conclusion.
     
-    Throughout these sections, **continue to tell the reader what's important**. Call out your main results and key pieces of evidence. Don't bury important information in the middle of paragraphs.
+Throughout these sections, **continue to tell the reader what's important**. Call out your main results and key pieces of evidence. Don't bury important information in the middle of paragraphs.
 
-- Explain the Details
+#### Explain the Details
 
-    Most student drafts **are light on details**. Readers **want to know what you did**. Always err on the side of describing things in thorough, even exhaustive, detail. Do not attempt to summarize a complex method or argument in a single sentence.
+Most student drafts **are light on details**. Readers **want to know what you did**. Always err on the side of describing things in thorough, even exhaustive, detail. Do not attempt to summarize a complex method or argument in a single sentence.
 
-    You may need to transform data, make calculations, or derive new measurements from raw values. **Carefully explain these steps**, why they are necessary, and how you implemented them. Readers need to have confidence that the numbers you've calculated accurately measure what you claim they measure. This is particularly important if you later show derived measurements in a graph or table. **Don't be afraid to illustrate your methods with small examples**.
+You may need to transform data, make calculations, or derive new measurements from raw values. **Carefully explain these steps**, why they are necessary, and how you implemented them. Readers need to have confidence that the numbers you've calculated accurately measure what you claim they measure. This is particularly important if you later show derived measurements in a graph or table. **Don't be afraid to illustrate your methods with small examples**.
 
-    Data from humans is tricky. If you've worked with surveys, journals, or interviews, you should carefully document the data collection process (when, where, by whom, under what conditions). Include relevant excerpts from the instruments in the body of the document and the full instruments in an Appendix.
+Data from humans is tricky. If you've worked with surveys, journals, or interviews, you should carefully document the data collection process (when, where, by whom, under what conditions). Include relevant excerpts from the instruments in the body of the document and the full instruments in an Appendix.
 
-    **Do not make unsupported assertions**. Everything you claim as a result must be backed up by either supporting data from your study or a citation.
+**Do not make unsupported assertions**. Everything you claim as a result must be backed up by either supporting data from your study or a citation.
 
-    ***Everything***.
+***Everything***.
 
-    Don't **tell** the reader something without **showing** the data that allowed you to draw that conclusion.
+Don't **tell** the reader something without **showing** the data that allowed you to draw that conclusion.
 
-    **Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) *proves* without careful qualification.
+**Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) *proves* without careful qualification.
     
-    Also, words like *significant*, *rate*, and *trend* have **specific technical definitions**.
+Also, words like *significant*, *rate*, and *trend* have **specific technical definitions**.
 
-- Graphs, Figures, and Tables
+#### Graphs, Figures, and Tables
 
-    **Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+**Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
 
-    **Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement?
+**Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement?
     
-    Label graph axes and **always include units**. Multi-line plots should have a legend.
+Label graph axes and **always include units**. Multi-line plots should have a legend.
 
-    Make sure your table columns and rows have descriptive titles. In your text, explain which values in the table illustrate the point you want to make.
+Make sure your table columns and rows have descriptive titles. In your text, explain which values in the table illustrate the point you want to make.
     
-    Some additional tips:
+Some additional tips:
 
-    - Use color sparingly, if at all. Some people are colorblind, and differences in line style are often easier to distinguish than solid lines of different colors.
+- Use color sparingly, if at all. Some people are colorblind, and differences in line style are often easier to distinguish than solid lines of different colors.
     
-    - More than two or three lines per graph is hard to interpret.
+- More than two or three lines per graph is hard to interpret.
     
-    - Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries. Show only the set of values needed to illustrate your point.
+- Huge tables full of numbers are also hard to interpret. Carefully evaluate any table with more than 10-15 entries. Show only the set of values needed to illustrate your point.
     
-    - Use line plots for **continuous data** or discrete sets with many points that effectively appear continuous. Use bar graphs or scatter plots for discrete measurements.
+- Use line plots for **continuous data** or discrete sets with many points that effectively appear continuous. Use bar graphs or scatter plots for discrete measurements.
     
-    - Vertical graph axes should always start at 0. **Do not set the axis range to the data range**: this is a common trick to make minor differences appear important. Readers will be skeptical of any graph that does not start at 0.
+- Vertical graph axes should always start at 0. **Do not set the axis range to the data range**: this is a common trick to make minor differences appear important. Readers will be skeptical of any graph that does not start at 0.
     
-    - Include a table of notation in mathematical papers, listing symbols, their meaning, and units where appropriate.
+- Include a table of notation in mathematical papers, listing symbols, their meaning, and units where appropriate.
 
-- Acknowledge Your Limitations
+#### Acknowledge Your Limitations
     
-    All studies have imperfections. Don't try to hide yours, or pretend they don't exist.
+All studies have imperfections. Don't try to hide yours, or pretend they don't exist.
 
-    Acknowledge issues that exist with your data or limitations of your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
+Acknowledge issues that exist with your data or limitations of your methods, then explain why they do not undermine your overall research project. Readers generally appreciate this attention to detail; they get angry if they think you're trying to hide something.
 
-    **Write defensively**. Anticipate your readers' objections and address them.
+**Write defensively**. Anticipate your readers' objections and address them.
  
-    For example, if you're doing a qualitative study with a small *N*, you know that generalizing your conclusions is going to be impossible. You could acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants, which can inform further research.
+For example, if you're doing a qualitative study with a small *N*, you know that generalizing your conclusions is going to be impossible. You could acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants, which can inform further research.
     
 ## General Writing Tips
 
