@@ -389,18 +389,41 @@ Here are five common problems that we see in student writing.
     
     > Vint Cerf and Robert Kahn first described the Internet Protocol (IP) in 1974.
     
-    Writing guides will tell you to avoid the passive voice and write in active voice.
-    
-    Passive sentences are weak because they obscure *who* is doing *what* to *whom*.
+    **Passive sentences obscure *who* is doing *what* to *whom***. Consider this admission:
     
     > Mistakes were made.
     
-    Well, **by whom**? The implication is "by us", but that's deliberately hidden from the reader. The active equivalent is direct and leaves no ambiguity:
+    Well, **by whom**? The implication is "by us", but that's deliberately hidden from the reader. The active equivalent is direct and unambiguous:
     
     > We made mistakes.
     
-    The easiest way to remove passive voice from your writing is to find and exterminate your use of "to be" verbs: *am*, *is*, *are*, *was*, *were*. Do a find on each of those and carefully consider whether their sentences can be rewritten into active counterparts.
+    The easiest way to remove passive voice from your writing is to **find and exterminate your "to be" verbs**: *am*, *is*, *are*, *was*, and *were*. Find those words in your document and carefully consider rewriting their sentences into active form.
     
+    **The passive voice is not always bad**. It is useful when the object of an action really is the focus of a sentence. For example,
     
+    > Roosevelt was elected to a fourth term in 1944.
+    
+    The actual actors in this sentence would be "The voters of the United States", but making it explicit seems unnecessary:
+    
+    > The voters of the United States elected Roosevelt to a fourth term in 1944.
+    
+3. Awkward Sentences
+
+    > The methodology incorporated to gauge the program's effect on student success utilized three metrics to get a widespread net of information.
+    
+    This sentence seems to be saying,
+    
+    > We used three metrics to gauge the program's effect on student success.
+    
+    Many first drafts contain sentences that are too long, too complex, or contain unnecessary phrases.
+    
+
+4. Phrases That Don't Add Any Information
+
+    > Many factors led to the development of the Internet.
+    
+    Golly! Many factors? Who would have guessed it?
+    
+    This is a non-thought. It has the appearance of a thought, but actually communicates no real information.
     
     
