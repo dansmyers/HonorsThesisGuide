@@ -329,9 +329,9 @@ Also, words like *significant*, *rate*, and *trend* have **specific technical de
 
 #### Graphs, Figures, and Tables
 
-**Choose appropriate graphs and tables**. Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
 
-**Describe figures and tables**. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement?
+Describe your graphs and tables. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Don't just put a figure in your document and expect your reader to understand why it's important.
     
 Label graph axes and **always include units**. Multi-line plots should have a legend.
 
