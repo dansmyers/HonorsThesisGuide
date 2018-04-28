@@ -1,10 +1,10 @@
-# Honors Thesis Guide
+# Computer Science Honors Thesis Guide
 
 ## Overview
 
 This is a guide for preparing an Honors thesis in computer science at Rollins College. It provides some guidelines on the thesis process, timelines, and specifications for formatting and writing your thesis document.
 
-This guide is **opinionated**. The "rules" it contains are only our thoughts on what seems to work well; they aren't official Rollins policies or universal requirements of all thesis projects in computer science. Some of the guidelines are arbitrary, but they are presented in the spirit of giving you as much information and structure as possible.
+This guide is **opinionated**. The "rules" it contains are only our thoughts on what seems to work well. They aren't official Rollins policies or universal requirements of all thesis projects in computer science. Some of the guidelines are arbitrary, but they are presented in the spirit of giving you as much information and structure as possible.
 
 ## Process
 
