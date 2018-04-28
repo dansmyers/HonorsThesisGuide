@@ -301,7 +301,7 @@ To outline the Methods, write down what you did to collect and analyze your data
 
 Structure the Results section as a series of numbered subsections, each presenting one of your main conclusions.
 
-- First write down your key conclusions, in order of best-supported to least-supported, then write down one sentence summaries of the supporting evidence for each conclusion.
+- First, write down your key conclusions, in order of most-supported to least-supported, then write down one sentence summaries of the supporting evidence for each conclusion.
 
     Note that some results may have several pieces of supporting evidence, some may only have one. The strength of a conclusion isn't determined by the *quantity* of evidence that you present. Trying to overwhelm a reader with low-quality data can backfire on you.
 
@@ -325,13 +325,13 @@ Don't **tell** the reader something without **showing** the data that allowed yo
 
 **Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) *proves* without careful qualification.
     
-Also, words like *significant*, *rate*, and *trend* have **specific technical definitions**.
+Also, remember that words like *significant*, *rate*, and *trend* have **specific technical definitions**.
 
-#### Graphs, Figures, and Tables
+#### Graphs and Tables
 
-Create the simplest possible graphs and tables to support your points, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
+Create the simplest possible graphs and tables, and avoid figures that are overly complex, filled with irrelevant data, or too small to read.
 
-Describe your graphs and tables. Carefully tell the reader how to interpret data in your figures and tables. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Don't just put a figure in your document and expect your reader to understand why it's important.
+When you introduce a graph or table, tell the reader how to interpret it. What are the axes and units? What does the shape of a line represent? What direction on the graph corresponds to improvement? Don't just put a figure in your document and expect your reader to understand why it's important.
     
 Label graph axes and **always include units**. Multi-line plots should have a legend.
 
@@ -367,63 +367,56 @@ The previous sections gave advice on structuring your document and its sections.
 
 There are many guides, online and in books, that will help your writing.
 
-- *Elements of Style* by Strunk and White is a classic text, though it's sometimes criticized for being old-fashioned and overly prescriptive.
+Here are some tips to keep in mind as you're writing.
 
-- Joseph M. Williams' *Style: Toward Clarity and Grace* is more technical and less prescriptive, but it provides excellent discussion of the principles of clear writing. Williams emphasizes understanding how readers acquire and process written information, then using that knowledge to improve your own writing.
+#### Start Early
 
-Here are five common problems that we see in student writing.
+A thesis is a long and complex document. You can't expect to write it in a few short days, or have an acceptable paper after only one round of editing.
+    
+Begin working on your thesis **before you feel ready**. The writing process forces you to clarify your ideas.
 
-1. Doing Everything at the Last Minute
+#### Use the Active Voice
 
-    A thesis is a long and complex document. You can't expect to write it in a few short days, or have an acceptable paper after only one round of editing.
+In a passive construction, the primary actor of a sentence is placed as the object, at the end of the sentence after the verb.
     
-    Begin working on your thesis **before you feel ready**. The writing process forces you to clarify your ideas.
+> The Internet Protocol (IP) was described by Vint Cerf and Robert Kahn in 1974.
     
-2. Passive Voice Sentences
+Cerf and Kahn are the actual actors in this sentence and the Internet Protocol is the object of their action ("described"). An active voice sentence places the actor in the subject position and the object of the action after the verb:
+    
+> Vint Cerf and Robert Kahn described the Internet Protocol (IP) in 1974.
+    
+**Passive sentences are weak because they obscure *who* is doing *what* to *whom***.
 
-    In a passive construction, the primary actor of a sentence is placed as the object, at the end of the sentence after the verb.
-    
-    > The Internet Protocol (IP) was first described by Vint Cerf and Robert Kahn in 1974.
-    
-    Cerf and Kahn are the actual actors in this sentence and the Internet Protocol is the object of their action ("described"). An active voice sentence places the actor in the subject position and the object of the action after the verb:
-    
-    > Vint Cerf and Robert Kahn first described the Internet Protocol (IP) in 1974.
-    
-    **Passive sentences obscure *who* is doing *what* to *whom***. Consider this admission:
-    
-    > Mistakes were made.
-    
-    Well, **by whom**? The implication is "by us", but that's deliberately hidden from the reader. The active equivalent is direct and unambiguous:
-    
-    > We made mistakes.
-    
-    The easiest way to remove passive voice from your writing is to **find and exterminate your "to be" verbs**: *am*, *is*, *are*, *was*, and *were*. Find those words in your document and carefully consider rewriting their sentences into active form.
-    
-    **The passive voice is not always bad**. It is useful when the object of an action really is the focus of a sentence. For example,
-    
-    > Roosevelt was elected to a fourth term in 1944.
-    
-    The actual actors in this sentence would be "The voters of the United States", but making it explicit seems unnecessary:
-    
-    > The voters of the United States elected Roosevelt to a fourth term in 1944.
-    
-3. Awkward Sentences
+> Sense of belonging was shown to be an important predictor of success in STEM fields.
+        
+> It has been argued that strong AI will surpass human intelligence within the next 20 years.
 
-    > The methodology incorporated to gauge the program's effect on student success utilized three metrics to get a widespread net of information.
+The easiest way to remove passive voice from your writing is to **find and remove "to be" verbs**: *am*, *is*, *are*, *was*, and *were*. Search for them in your document and carefully consider rewriting their sentences into active form. You may decide that a passive or "to be" construction is the best choice for a particular passage, but that should be a conscious choice.
     
-    This sentence seems to be saying,
-    
-    > We used three metrics to gauge the program's effect on student success.
-    
-    Many first drafts contain sentences that are too long, too complex, or contain unnecessary phrases.
-    
+#### Fix Awkward Sentences
 
-4. Phrases That Don't Add Any Information
+This encompasses several issues.
+
+- Long sentences
+
+    Make them shorter.
+
+    > The methodology used in this work is one that is capable of accounting for the complexity inherent in multidimensional workloads collected from computer systems.
+    
+    > Our methodology accounts for the complexity of multidimensional workloads.
+
+- Irrelevant phrases
 
     > Many factors led to the development of the Internet.
     
-    Golly! Many factors? Who would have guessed it?
+    > AI researchers have produced several valuable insights.
     
-    This is a non-thought. It has the appearance of a thought, but actually communicates no real information.
+    Gosh! Many factors! Several insights! Who could have guessed?
     
+    Sentences like these sound insighful, but actually convey no information. Instead, list the factors or insights:
+    
+    > Four factors led to the development of the Internet: ...    
+
+- 
+
     
