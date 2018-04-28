@@ -365,9 +365,7 @@ For example, if you're doing a qualitative study with a small *N*, you know that
 
 The previous sections gave advice on structuring your document and its sections. This section covers sentence-level writing.
 
-There are many guides, online and in books, that will help your writing.
-
-Here are some tips to keep in mind as you're writing.
+There are many guides, online and in books, that will help your writing. Here are some tips to keep in mind.
 
 #### Start Early
 
