@@ -44,7 +44,7 @@ The journal is not a formal document. You don't have to turn it in, although I m
 
 ### A Daily Research Session
 
-*This section is influenced by Robert Boice's* Nihil Nimus *. This is the approach I use in my own research sessions.*
+*This section is influenced by Robert Boice's* Nihil Nimus. *This is the approach I use in my own research sessions.*
 
 As your scheduled research time begins, sit yourself in a place where you can be productive and focus. This is different for every person, but doing your research in the same time and place each day will help you get into a productive frame of mind.
 
