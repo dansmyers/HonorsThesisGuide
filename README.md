@@ -232,15 +232,15 @@ cooperating group of attacker nodes.
 
 ### Writing the Literature Review
 
-The Literature Review has a few key purposes:
+A good literature review will
 
-- to equip you with background knowledge you need for your thesis,
+- equip you with background knowledge you need for your thesis,
 
-- to provide the body of references you'll use in your work, and
+- provide the body of references you'll use in your work, and
 
-- to demonstrate to your reviewers that you have done sufficient background research and have an understanding of your topic area.
+- demonstrate to your reviewers that you have done sufficient background research and have an understanding of your topic area.
 
-Three problems plague the thesis literature review process:
+Three common problems plague the thesis literature review:
 
 1. Doing the minimum and ending up with a literature review that's too sparse and cursory to show any understanding of the area.
 
