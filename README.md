@@ -203,9 +203,9 @@ third party.
     
 4. The rest of the introduction elaborates on the approach you take in the rest of the paper. What are the essential details of your study? What data sources did you use? What analysis techniques or theoretical frameworks do you draw upon?
 
-5. The end of the Introduction is a **list of contributions**, summarizing the key points and accomplishments of your work. This also serves as a overview of the document structure.
+5. The end of the Introduction is a **statement of your contributions**, summarizing the key results and accomplishments of your work. 
 
-    Be explicit about this! It's okay to say, "The key contribution of this paper is..." or, "This paper makes the following contributions..." Don't force your reader to figure out for themselves whether your thesis accomplished anything.
+    Be explicit! It's okay to say, "The key result of this paper is..." or, "This paper makes the following contributions..." Don't force your reader to guess whether your thesis accomplished anything.
 
 Taken together, this structure does several things:
 
@@ -361,60 +361,15 @@ Acknowledge issues that exist with your data or limitations of your methods, the
  
 For example, if you're doing a qualitative study with a small *N*, you know that generalizing your conclusions is going to be impossible. You could acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants, which can inform further research.
     
-## General Writing Tips
+### Grammar, Sentences, and Other Writing Tips
 
-The previous sections gave advice on structuring your document and its sections. This section covers sentence-level writing.
+I recommend the following guides from Hamilton College:
 
-There are many guides, online and in books, that will help your writing. Here are some tips to keep in mind.
+- [Seven Deadly Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 
-#### Start Early
+- [Writing a Good History Paper](https://www.hamilton.edu/academics/centers/writing/writing-resources/writing-a-good-history-paper)  (obviously focused on history, but the important points are relevant for all writers)
 
-A thesis is a long and complex document. You can't expect to write it in a few short days, or have an acceptable paper after only one round of editing.
-    
-Begin working on your thesis **before you feel ready**. The writing process forces you to clarify your ideas.
+- [APA Quick Guide](https://www.hamilton.edu/academics/centers/writing/writing-resources/apa-quick-guide)
 
-#### Use the Active Voice
-
-In a passive construction, the primary actor of a sentence is placed as the object, at the end of the sentence after the verb.
-    
-> The Internet Protocol (IP) was described by Vint Cerf and Robert Kahn in 1974.
-    
-Cerf and Kahn are the actual actors in this sentence and the Internet Protocol is the object of their action ("described"). An active voice sentence places the actor in the subject position and the object of the action after the verb:
-    
-> Vint Cerf and Robert Kahn described the Internet Protocol (IP) in 1974.
-    
-**Passive sentences are weak because they obscure *who* is doing *what* to *whom***.
-
-> Sense of belonging was shown to be an important predictor of success in STEM fields.
-        
-> It has been argued that strong AI will surpass human intelligence within the next 20 years.
-
-The easiest way to remove passive voice from your writing is to **find and remove "to be" verbs**: *am*, *is*, *are*, *was*, and *were*. Search for them in your document and carefully consider rewriting their sentences into active form. You may decide that a passive or "to be" construction is the best choice for a particular passage, but that should be a conscious choice.
-    
-#### Fix Awkward Sentences
-
-This encompasses several issues.
-
-- Long sentences
-
-    Make them shorter.
-
-    > The methodology used in this work is one that is capable of accounting for the complexity inherent in multidimensional workloads collected from computer systems.
-    
-    > Our methodology accounts for the complexity of multidimensional workloads.
-
-- Irrelevant phrases
-
-    > Many factors led to the development of the Internet.
-    
-    > AI researchers have produced several valuable insights.
-    
-    Gosh! Many factors! Several insights! Who could have guessed?
-    
-    Sentences like these sound insighful, but actually convey no information. Instead, list the factors or insights:
-    
-    > Four factors led to the development of the Internet: ...    
-
-- 
 
     
