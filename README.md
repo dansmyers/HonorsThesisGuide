@@ -126,13 +126,13 @@ Many theses have the following sections:
 
 This structure is standard for papers that are broadly experimental, where the locus of the research is collecting and analyzing some type of data.
 
-- The Introduction orients the reader to the problem and your proposed approach and it provides a high-level overiew of the contributions of your document.
+- The Introduction orients the reader to the problem and your proposed approach, and it provides a high-level overiew of the contributions of your document.
 
 - The Methods section summarizes the details of your experiment, such as the data collection, processing, and analysis steps. 
 
 - The Results section presents quantitative and qualitative data (as appropriate for your study) that answer the experimental questions driving the paper.
 
-- The Discussion section elaborates on the significance of the results, acknowledges limitations, and places them in broader context. it may also suggest directions for future work or elaboration.
+- The Discussion section elaborates on the significance of the results, acknowledges limitations, and places them in broader context. It may also suggest directions for future work or elaboration.
 
 ### Engineering Theses
 
