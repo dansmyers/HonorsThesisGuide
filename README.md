@@ -317,11 +317,7 @@ You may need to transform data, make calculations, or derive new measurements fr
 
 Data from humans is tricky. If you've worked with surveys, journals, or interviews, you should carefully document the data collection process (when, where, by whom, under what conditions). Include relevant excerpts from the instruments in the body of the document and the full instruments in an Appendix.
 
-**Do not make unsupported assertions**. Everything you claim as a result must be backed up by either supporting data from your study or a citation.
-
-***Everything***.
-
-Don't **tell** the reader something without **showing** the data that allowed you to draw that conclusion.
+**Do not make unsupported assertions**. Everything you claim as a result must be backed up by either supporting data from your study or a citation. ***Everything***. Don't **tell** the reader something without **showing** the data that allowed you to draw that conclusion.
 
 **Avoid generalizing claims** beyond the data at hand. Be careful of using words like *shows*, *demonstrates*, or (shudder) *proves* without careful qualification.
     
