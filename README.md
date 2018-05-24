@@ -66,7 +66,6 @@ Finally, **write down one to four tasks**, in order of priority, for the next se
 
 Always, always, **ALWAYS** keep a backup of your notes, drafts, and code.  Otherwise, you are one dropped laptop away from disaster (and I have seen this happen).  Google Drive and Dropbox are easy solutions for notes while GitHub is a great tool for managing code.  At the conclusion of every research session, your final task should be to commit and push your code to GitHub and/or make sure your notes and files have synced to your chosen backup platform.
 
-
 ## Basic Requirements
 
 ### Approximate Timeline
