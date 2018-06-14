@@ -62,6 +62,10 @@ When you reach the end of your time, or a natural stopping place, pause for a mo
 
 Finally, **write down one to four tasks**, in order of priority, for the next session. This is your to-do list. When you come back next time, you'll tackle these tasks, with the highest priority one coming first. If a task seems too large, break it into subtasks, then prioritize those.
 
+### Backups
+
+Always, always, **ALWAYS** keep a backup of your notes, drafts, and code.  Otherwise, you are one dropped laptop away from disaster (and I have seen this happen).  Google Drive and Dropbox are easy solutions for notes while GitHub is a great tool for managing code.  At the conclusion of every research session, your final task should be to commit and push your code to GitHub and/or make sure your notes and files have synced to your chosen backup platform.
+
 ## Basic Requirements
 
 ### Approximate Timeline
@@ -84,7 +88,7 @@ A reasonable goal for a thesis is enough material for a single computer science 
 
 That said, length is ultimately a function of the project. You'll write as much as you need to write to describe your problem, process, and results.
 
-### Formatting
+### Formatting and Voice
 
 Most students type their theses in Microsoft Word. If you are going to grad school and want to learn LaTeX, we can talk about it.
 
@@ -92,13 +96,16 @@ Use normal margins and 12-point Times New Roman or a similar professional-lookin
 
 Sections and subsections should be numbered, with 1 for the Introduction, 2 for the first body section, 2.1 for the first body subsection, and so forth. You can use numbered sub-subsections if necessary, but those are often better handled with un-numbered paragraph headings.
 
+You'll find that most computer science articles are written using the pronouns we/us even when there is a single author.  While this is common in computer science, other fields vary on this convention.  Since you will be the only author on your thesis, you can use either I/me or we/us, just be consistent throughout the document.  However, should we decide to edit and submit your thesis for publication in a peer-reviewed journal or conference, you will most likely need to change to the we/us usage.
+
+
 ### References and Citations
 
 You should plan to accumulate at least **12 references** during the literature review phase of your project.
 
 Your literature review should focus on **peer-reviewed scholarly articles published in research journals or computer science conference proceedings**.
 
-General-interest media articles, opinion pieces, blog posts, etc., even those published in reputable news outlets such as the *New York Times*, are not appropriate citation material, unless the media itself is the focus of your study.
+General-interest media articles, opinion pieces, blog posts, etc., even those published in reputable news outlets such as the *New York Times*, are not appropriate citation material, unless the media itself is the focus of your study.  Often, popular news articles will reference an academic study and make it "digestible" for the general public.  You are expected to find the original academic study (ie, the primary source) and include it, not the *NYT* summary.
 
 Because the CS field is built around dialogue between academics and industry practitioners, there are cases where important work has appeared outside of the traditional peer-reviewed publishing process. Satoshi Nakamoto's original 2008 Bitcoin paper is a good example. It was first published pseudonymously on the Internet, and other cryptocurrency developers (who are mostly not traditional academics) have adopted the practice of releasing their work in public white papers.
 Software engineering and web programming are other areas where influential writing has happened outside of scholarly journals and conferences.
@@ -356,7 +363,20 @@ Acknowledge issues that exist with your data or limitations of your methods, the
 **Write defensively**. Anticipate your readers' objections and address them.
  
 For example, if you're doing a qualitative study with a small *N*, you know that generalizing your conclusions is going to be impossible. You could acknowledge that you can't claim statistical significance with a small sample, but you can still collect other valuable insights into the attitudes and experiences of your participants, which can inform further research.
-    
+  
+### Tips and Strategies for Overcoming Writer's Block
+Eventually, you will hit a place where you feel overwhelmed by the writing process.  This is ok and normal. Many (most?) students experience this feeling and may resort to tried-and-true procrastination techniques disguised as productivity: editing what they have already written, playing with fonts/margins/formatting, making redundant graphs/tables to present information, etc.  
+
+The good thing is that if you follow some of the steps above, you will have a good idea of **what** you need to write.  The trick is to get started because once you get started, you'll often find it easy to continue.  Here are some of my suggestions for how to jump-start the writing process when you feel stuck.
+
+- Change your writing medium.  If you normally write electronically, try dictating your thoughts to a speech-to-text app or writing a page or two longhand in a notebook.  You'll have to transcribe and clean up your writing later, but you can consider these a first draft of your thoughts. 
+
+- Change your writing location and/or time.  If you normally write in your dorm room late at night, try something different.  Your favorite (quiet) coffee shop or the library in the early morning are great places to write.  Most of my dissertation was written in the university library rather than my usual workspots of my lab or house.
+
+- Disconnect your internet.  Having a web browser of open tabs makes it easy to disconnect from the writing process and procrastinate when you're stuck.
+
+- Set a timer for 20 minutes, pick a section, and write as much as you can about the topic.  Don't stop to read and edit your writing!  In fact, when I'm using this technique, I try not to use the backspace key other than to correct immediate typos.  If you come to a place where you need to insert a specific thing (citation, piece of data from your research log, etc), don't stop to retrieve it!  Just put a marker in your text and keep going.  For example, I have often written sentences like, "While Kelsey, et al (Z citation) found a correlation of Z.Z%, our data did not replicate this correlation."  (The "Z" in the text makes it easy to search when I am editing and insert the precise data needed.)  After 20 minutes, if you find yourself in the writing groove, keep going until you wind down. 
+
 ### Grammar, Sentences, and Other Writing Tips
 
 I recommend the following guides from Hamilton College:
@@ -367,5 +387,6 @@ I recommend the following guides from Hamilton College:
 
 - [APA Quick Guide](https://www.hamilton.edu/academics/centers/writing/writing-resources/apa-quick-guide)
 
+And don't forget about the Rollins Writing Center as well!  While they won't read/edit your entire thesis, it may be particularly useful to get some help on the introduction, literature review, and conclusion sections as these need to be clear, concise, and understandable to most people.
 
     
